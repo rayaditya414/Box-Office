@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const LINKS = [
   { to: '/', text: 'HOME' },
-  { to: '/starred', text: 'STAREED' },
+  { to: '/starred', text: 'STARRED' },
 ];
 
 const Navbar = () => {
